@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-topic {
+    color: black;
+    background-color: grey;
+    margin: 10px;
+    padding: 10px;
+    border: 9px solid blue;
+    font-size: 24px;
+}
+
+.Artist {
+    height: 200px;
+    border: 10px solid black;
+    padding: 6px;
+    margin: 28px;
+}
+
+img {
+    height: 200px;
+    border: 8px solid blue;
+    padding: 0px;
+    margin: 28px;
+}
+
+li {
+    color: grey;
+}
+h1{ color:green;}
+h2{ color: red;}
